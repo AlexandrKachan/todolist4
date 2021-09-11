@@ -3,4 +3,4 @@
 - приложение по умолчанию доступно на http://localhost:8081/
 - изменить настройки можно в файле application.properties
 
-![Optional Text](https://github.com/AlexandrKachan/todolist4/blob/master/src/main/resources/myfolder/todo.jpg)
+![alt tag](https://github.com/AlexandrKachan/todolist4/blob/master/src/main/resources/myfolder/todo.jpg)
